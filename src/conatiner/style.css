@@ -1,0 +1,46 @@
+.portfoilodiv {
+  color: #822424;
+}
+/* .personaldetaildiv {
+  background-color: aqua;
+} */
+.personaldetail {
+  font-size: large;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.portfoilo {
+  background-color: #41b3a3;
+}
+/* .educationdetail {
+  font-size: medium;
+  font-family: "Courier New", Courier, monospace;
+  color: whitesmoke;
+} */
+/* .skilldetail {
+  font-size: medium;
+  font-family: "Courier New", Courier, monospace;
+  color: whitesmoke;
+} */
+/* .hobbiesdetail {
+  font-size: medium;
+  font-family: "Courier New", Courier, monospace;
+  color: whitesmoke;
+} */
+.conatinerdetail {
+  background-color: white;
+}
+.carddetail {
+  font-size: medium;
+  font-family: "Courier New", Courier, monospace;
+  color: whitesmoke;
+}
+/* .footer {
+  margin-top: 15px;
+  padding: 0.5px;
+  background-color: rgb(235, 195, 64);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+} */
